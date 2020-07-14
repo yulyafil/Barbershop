@@ -1,0 +1,16 @@
+.container {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media screen and (max-width: 767px) {
+  .container {
+    padding-left: 31px;
+    padding-right: 31px;
+  }
+}
+
+.about-us {
+  padding: 84px 0;
+}
+/*# sourceMappingURL=main.css.map */
